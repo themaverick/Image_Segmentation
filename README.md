@@ -34,7 +34,7 @@ The toolkit provides an interactive **[Gradio](https://www.gradio.app/)** interf
 ### Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/CSL7360_Project.git
+git clone https://github.com/themaverick/Image_Segmentation.git
 cd CSL7360_Project
 
 # (Optional) Create a virtual environment
